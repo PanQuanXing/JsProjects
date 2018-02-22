@@ -1,0 +1,49 @@
+* {
+    -webkit-touch-callout:none;
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    }
+.tbDiv{
+    border-top:1px solid;
+}
+.thDiv{
+    height: 48px;
+    line-height: 48px;
+    border-bottom: 1px solid #e7e7e7;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    display: block;
+}
+.aMore{
+    padding: 2px 0 0 0;
+    margin: 0px;
+    float: right;
+    font-size: 18px;
+    -webkit-tap-highlight-color: rgba(173, 213, 246, 0.5);
+
+}
+.sMark{
+    float: left;
+    font-size: 24px;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.iPoint{
+    height: 21px;
+    width: 8px;
+    margin: 14px 8px 0 1px;
+    background-color: #5e5e5e;
+    float: left;
+    overflow: hidden;
+    display: inline;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 100%;
+}
